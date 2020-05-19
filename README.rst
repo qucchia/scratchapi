@@ -4,6 +4,8 @@ Scratch API Interface
 
 ScratchAPI is a scratch API interface written in Python.
 
+[![Run on Repl.it](https://repl.it/badge/github/PolyEdge/scratchapi)](https://repl.it/github/PolyEdge/scratchapi)
+
 To get started, install it with pip install scratchapi
 
 Logging in
